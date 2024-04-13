@@ -1,6 +1,6 @@
 ---
 title: "Tidyverse"
-author: "Material desenvolvido por Dr. Clarice Braúna Mendes"
+author: "Material desenvolvido por Dr. Clarice B. Mendes"
 date: "30-04-2024"
 output:
   word_document: default
